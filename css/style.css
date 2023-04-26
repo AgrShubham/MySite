@@ -1,0 +1,21 @@
+body{
+    background-color: #e4f9e5;
+    text-align: center;
+}
+.top-container{
+    background-color: #E4F9E5;
+    position: relative;
+    padding-top: 100px;
+}
+.text{
+
+}
+.top-cloud{
+    position: absolute;
+    right: 400px;
+    bottom: 450px;
+}
+.bottom-cloud{
+    position: absolute;
+    left: 400px;
+}
