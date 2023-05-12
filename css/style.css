@@ -1,21 +1,43 @@
 body{
-    background-color: #e4f9e5;
+    margin: 0%;
+    /* background-color: #eaf6f6; */
     text-align: center;
 }
 .top-container{
-    background-color: #E4F9E5;
+    background-color: #eaf6f6;
     position: relative;
-    padding-top: 100px;
+    padding-top: 60px;
 }
-.text{
+
+.text h1{
+    font-family: 'Pacifico', cursive;
+    /* font-family: 'Dancing Script', cursive; */
+    /* font-family: 'Sigmar', cursive; */
+    font-size: 4rem;
+    color:  #66BFBF;
+    line-height: 2;
+    margin-top: 10px;
 
 }
+
+.text h2{
+    font-family: 'Pacifico', cursive;
+    font-size: 2.5rem;
+    color:  #66BFBF;
+    font-weight: normal;
+}
 .top-cloud{
-    position: absolute;
-    right: 400px;
-    bottom: 450px;
+    position: relative;
+    /* right: 300px; */
+    /* bottom: 650px; */
+    left: 400px;
+
 }
 .bottom-cloud{
     position: absolute;
     left: 400px;
+}
+
+.middle-container{
+    padding: 50px;
 }
